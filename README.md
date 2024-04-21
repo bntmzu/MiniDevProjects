@@ -4,4 +4,4 @@ Hi! This folder will contain my projects related to Python development. For my p
 <p> Project: Morse Code Training </p>
 <p> Overview: <p>A compact script that you can use to practice the main expressions in Morse code.<p>
 Technologies Used: Google Colaboratory<p>
-> <a href="https://github.com/Morse_%25D0%25A1ode_Training.ipynb">Project link</a>
+> <a href="https://github.com/bntmzu/PythonDevProjects/blob/555d2eadb6762fdcea80d38636817bbb1cd7cb2f/Morse_%D0%A1ode_Training.ipynb">Project link</a>
