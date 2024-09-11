@@ -32,7 +32,7 @@ The timer alternates between work and break periods, as indicated by the changin
 After each work session, a checkmark is displayed to track progress.<p>
 The Reset button stops the current timer and resets the count.<p>
 
-###  Product Catalog System
+#  Product Catalog System
 
 **Overview:**  
 This project is a simple **Product Catalog System** implemented in Python. It is designed to manage different types of products, such as smartphones and lawn grass, by creating categories, adding products to these categories, and calculating statistics such as total price and average price. It also demonstrates concepts such as class inheritance, mixins, and abstract base classes.<p>
